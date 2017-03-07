@@ -1,2 +1,1 @@
-# agh-workshop
-Warsztaty z sieci neuronowych
+### Pliki potrzebne do wykonania warsztatów z sieci neuronowych
