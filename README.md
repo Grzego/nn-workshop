@@ -1,1 +1,3 @@
-### Pliki potrzebne do wykonania warsztatów z sieci neuronowych
+### Warsztaty z sieci neuronowych
+
+Na wiki są wymienione dodatkowe materiały :smiley:
